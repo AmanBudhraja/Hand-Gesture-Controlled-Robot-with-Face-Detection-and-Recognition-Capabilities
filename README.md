@@ -3,4 +3,5 @@ In this paper, we introduced an accelerometer (ADXL335) based Gesture controlled
 features such as width of mouth, width of eyes, pupil, and compare the result with the measurements stored in the database and return the closest record (facial metrics). Face Recognition and Detection would be done using Principle Component Analysis Method. A camera will be mounted on the top of our main unit of the robot. The camera of our robot and the computer on which live steaming will be played will be connected to the same Wi-Fi connection. This robot will help in various application such as security of a place, attendance system etc.
 
 URL - https://ieeexplore.ieee.org/document/8269666
+
 Contributors - Aman Budhraja, Akshit Sharma, Shantanu Malhotra, Saurabh Deswal 
